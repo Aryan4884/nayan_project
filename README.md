@@ -60,11 +60,11 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/nayan.git
+    git clone https://github.com/Aryan4884/nayan_project.git
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd nayan
+    cd Nayan_project
     ```
 3. **Install the Required Packages**:
     ```sh
