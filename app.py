@@ -115,10 +115,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.header("| Echo Notes |") 
+st.header("| Nayan |") 
 st.divider()
 
-st.markdown('<div class="centered-gif"><img src="https://cdn.discordapp.com/attachments/1251907261534699560/1254017845021507614/audio.gif?ex=6677f6a0&is=6676a520&hm=78ad62237a18c10017dc0f2e60c6fcff42a153e688495573e0c23b1c135c9f89&" alt="Soundwave Animation" width=800></div>', unsafe_allow_html=True)
+st.markdown('<div class="centered-gif"><img src="https://media1.tenor.com/m/BOu8ryjIR38AAAAd/sound-wave-wave.gif" alt="Soundwave Animation" height=200 width=800></div>', unsafe_allow_html=True)
 
 
 
