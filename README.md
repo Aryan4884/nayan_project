@@ -64,7 +64,7 @@ Ensure you have the following installed on your system:
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd Nayan_project
+    cd nayan_project
     ```
 3. **Install the Required Packages**:
     ```sh
@@ -89,9 +89,7 @@ Ensure you have the following installed on your system:
 
 If you wish to contribute to Nayan, feel free to open a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## Thanks for visiting
 
 ## Contact
 
