@@ -77,7 +77,11 @@ Ensure you have the following installed on your system:
     ```sh
     python app.py
     ```
-2. **Access the App**:
+2.  **Run the Streamlit App**:
+    ```sh
+    streamlit run app.py
+    ```
+3. **Access the App**:
     - Once the app is running, you can access it by navigating to `http://localhost:8501` in your web browser.
 
 ### Usage
