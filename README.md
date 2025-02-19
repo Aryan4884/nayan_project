@@ -19,7 +19,7 @@ My inspiration for Nayan came from observing how technology and AI have transfor
 
 Nayan was built using:
 - **Python** with **Streamlit** to create a user-friendly web-based application.
-- **ChatGPT API** and **DeepL API** for generating responses, translations, and more.
+- **ChatGPT API/Gemini API** and **DeepL API** for generating responses, translations, and more.
 - **speech_recognition** for voice command input.
 - **pytesseract** for OCR to convert images into text.
 
@@ -98,5 +98,5 @@ If you wish to contribute to Nayan, feel free to open a pull request. For major 
 ## Contact
 
 If you have any questions, feel free to contact me at:
-- **Email**: your-email@example.com
+- **Email**: aryan.raj.min22@itbhu.ac.in
 
